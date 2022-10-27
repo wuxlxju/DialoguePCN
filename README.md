@@ -28,6 +28,6 @@ Reproduced experiment results on th IEMOCAP
 
 
 
-![pic1](/wuxlxju/DialoguePCN/tree/main/code/metric68.7.png)
+![pic1](https://github.com/wuxlxju/DialoguePCN/blob/main/code/metric68.7.png)
 
 
