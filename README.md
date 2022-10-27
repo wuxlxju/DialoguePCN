@@ -16,9 +16,6 @@ pip install -r requirements.txt
 The original datasets can be found at [IEMOCAP](https://sail.usc.edu/iemocap/)
 
 For training model on IEMOCAP dataset , you can refer to the following:
-    
-
-For training model on MELD dataset , you can refer to the following:
 
 ```bash
 python train.py
