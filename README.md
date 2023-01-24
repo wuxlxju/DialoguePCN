@@ -18,7 +18,7 @@ The original datasets can be found at [IEMOCAP](https://sail.usc.edu/iemocap/)
 For training model on IEMOCAP dataset , you can refer to the following:
 
 ```bash
-python train.py
+python run_train_ie.py
 ```
 
 
